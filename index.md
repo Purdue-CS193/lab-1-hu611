@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Weiyan Hu's first CS193 lab
 - The instructor here are nice and helpful
 - The classroom is small
 
@@ -16,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Weiyan Hu's first CS193 lab
+# Header 1
 ## Header 2 
 ### Header 3
 
